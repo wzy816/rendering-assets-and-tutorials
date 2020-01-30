@@ -4,7 +4,7 @@
 
 ## Tutorials
 
-### Adobe InDesign Basic Tutorial :star
+### :star: Adobe InDesign Basic Tutorial
 
 简介：13 小时英语视频，从零学习 InDesign
 评论：做作品集排版花一天时间只看这个就够了
@@ -12,7 +12,7 @@
 链接：<https://pan.baidu.com/s/19ti7SCZoZZkDdJhY5V8UMw>
 提取码：j7my
 
-### Adobe Illustrator Advanced Tutorial :star
+### :star: Adobe Illustrator Advanced Tutorial
 
 简介：英语视频，12 个高阶 Illustrator 实用技巧
 
@@ -26,7 +26,7 @@
 链接：<https://pan.baidu.com/s/1FmvogWElfO7FkrOZLkNKQg>
 提取码：xdlg
 
-### Maya Mental Ray Rendering Tutorial :star
+### :star: Maya Mental Ray Rendering Tutorial
 
 简介：英语视频，全面介绍Maya Mental Ray的渲染设置
 评论：建筑渲染必杀。
@@ -50,7 +50,7 @@
 链接：<https://pan.baidu.com/s/1-jobtE9g7lKhzlQJIGKzNg>
 提取码：v48w
 
-### Rhino Tutorial  :star
+### :star: Rhino Tutorial
 
 简介：Rhino Level 1/2，RhinoScript 101，V-ray for Rhino教程，Rhino 说明文档等
 评论：入门看Rhino Level，学渲染必看 V-ray for Rhino
@@ -58,7 +58,7 @@
 链接：<https://pan.baidu.com/s/1Q-BejR3_FYe6hvuTaH7p1A>
 提取码：f3ht
 
-### Grasshopper Tutorial :star
+### :star: Grasshopper Tutorial
 
 简介：Grasshopper Primer，运算器教程， VB Script，paneling tool教程 等
 评论：入门看Primer，功能详解看运算器教程
