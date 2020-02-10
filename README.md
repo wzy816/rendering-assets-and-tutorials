@@ -1,4 +1,4 @@
-# awesome-rendering
+# rendering-assets-and-tutorials
 
 疫情宅家无聊，整理了以前读土木和建筑时看过的教程和收集的素材。
 
